@@ -1,0 +1,300 @@
+{
+	"UPSFU": [
+		{
+			"pcf-appctrl-pod": [
+				"pcf-appctrl-component",
+				"sdrexec-lf-component"
+			]
+		},
+		{
+			"cslbipom-pod": [
+				"cslbom-component",
+				"ipom-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"ipctrl-pod": [
+				"ipctrl-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"sfm-pod": [
+				"dcf-component",
+				"ddb-component",
+				"hafctrl-component",
+				"hafg-component",
+				"ips-component",
+				"scfm-component",
+				"sdrctrl-component",
+				"sdrexec-lf-component"
+			]
+		},
+		{
+			"omb-pod": [
+				"mmcs-component",
+				"ombroker-component",
+				"omp-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"vnfpom-pod": [
+				"npsomu-component"
+			]
+		},
+		{
+			"vha-pod": [
+				"vha-component"
+			]
+		},
+		{
+			"acs-pod": [
+				"acs-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"cpm-pod": [
+				"cpm-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"hafetcd-pod": [
+				"hafetcd-component"
+			]
+		}
+	],
+	"USIPU": [
+		{
+			"cslbip-pod": [
+				"cslbip-component",
+				"ip-component",
+				"sdrexec-sf-component"
+			]
+		}
+	],
+	"UPSRV-R": [
+		{
+			"pcf-srvr1-pod": [
+				"pcf-diamloadbalance-component",
+				"pcf-httploadbalance-component",
+				"sdrexec-mf-component"
+			]
+		},
+		{
+			"pcf-srvr2-pod": [
+				"pcf-diamloadbalance-component",
+				"pcf-httploadbalance-component",
+				"sdrexec-mf-component"
+			]
+		},
+		{
+			"pcf-redis-pod": [
+				"pcf-redis-component"
+			]
+		}
+	],
+	"UPSRV-L": [
+		{
+			"pcf-srvl1-pod": [
+				"pcf-diamloadbalance-component",
+				"pcf-httploadbalance-component",
+				"sdrexec-mf-component"
+			]
+		},
+		{
+			"pcf-srvl2-pod": [
+				"pcf-diamloadbalance-component",
+				"pcf-httploadbalance-component",
+				"sdrexec-mf-component"
+			]
+		}
+	],
+	"UPSRV-S": [
+		{
+			"pcf-srvs-pod": [
+				"pcf-policyengine-component",
+				"pcf-amfpolicy-component",
+				"sdrexec-mf-component"
+			]
+		},
+		{
+			"pcf-dbbroker2-pod": [
+				"pcf-dbbroker-component",
+				"sdrexec-mf-component"
+			]
+		}
+	],
+	"UPADD-P": [
+		{
+			"pcf-addp-pod": [
+				"pcf-policymanagement-component",
+				"pcf-lcs-component",
+				"pcf-ncs-component",
+				"pcf-disctrl-component",
+				"sdrexec-mf-component",
+				"pcf-otcs-component",
+				"pcf-nlf-component",
+				"ucfctrl-component"
+			]
+		},
+		{
+			"pcf-dbbroker1-pod": [
+				"pcf-dbbroker-component",
+				"sdrexec-mf-component"
+			]
+		}
+	],
+	"UPADD-N": [
+		{
+			"pcf-notificationtask-pod": [
+				"pcf-notificationtask-component",
+				"sdrexec-mf-component"
+			]
+		},
+		{
+			"pcf-addn-pod": [
+				"pcf-otes-component",
+				"ucfexec-mf-component"
+			]
+		}
+	]
+}
+{
+	"UPSFU": [
+		{
+			"pcf-appctrl-pod": [
+				"pcf-appctrl-component",
+				"sdrexec-lf-component"
+			]
+		},
+		{
+			"cslbipom-pod": [
+				"cslbom-component",
+				"ipom-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"ipctrl-pod": [
+				"ipctrl-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"sfm-pod": [
+				"dcf-component",
+				"ddb-component",
+				"hafctrl-component",
+				"hafg-component",
+				"ips-component",
+				"scfm-component",
+				"sdrctrl-component",
+				"sdrexec-lf-component"
+			]
+		},
+		{
+			"omb-pod": [
+				"mmcs-component",
+				"ombroker-component",
+				"omp-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"vnfpom-pod": [
+				"npsomu-component"
+			]
+		},
+		{
+			"vha-pod": [
+				"vha-component。"
+			]
+		},
+		{
+			"acs-pod": [
+				"acs-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"cpm-pod": [
+				"cpm-component",
+				"sdrexec-nf-component"
+			]
+		},
+		{
+			"hafetcd-pod": [
+				"hafetcd-component"
+			]
+		}
+	],
+	"USIPU": [
+		{
+			"cslbip-pod": [
+				"cslbip-component",
+				"ip-component",
+				"sdrexec-sf-component"
+			]
+		}
+	],
+	"USRSU1": [
+		{
+			"usrsu1aservice/usrsu1bservice": [
+				"usrsu1a-software/usrsu1b-software",
+				"sdrexec-mf-component"
+			]
+		}
+	],
+	"USRSU2": [
+		{
+			"usrsu2aservice/usrsu2bservice": [
+				"usrsu2a-software/usrsu2b-software",
+				"sdrexec-mf-component"
+			]
+		}
+	],
+	"USRSU3": [
+		{
+			"usrsu3aservice/usrsu3bservice": [
+				"usrsu3a-software/usrsu3b-software",
+				"sdrexec-mf-component"
+			]
+		}
+	],
+	"USSESSIONRSU1": [
+		{
+			"usrsusessionaservice/usrsusessionbservice": [
+				"usrsusessiona-software/usrsusessionb-software",
+				"sdrexec-mf-component"
+			]
+		}
+	],
+	"USSESSIONRSU2": [
+		{
+			"usrsusession2aservice/usrsusession2bservice": [
+				"usrsusession2a-software/usrsusession2b-software",
+				"sdrexec-mf-component"
+			]
+		}
+	],
+	"USPGW": [
+		{
+			"uspgwaservice/uspgwbservice": [
+				"uspgwa-software/uspgwb-software",
+				"sdrexec-mf-component"
+			]
+		}
+	],
+	"USPID3": [
+		{
+			"uspid3aservice/uspid3bservice": [
+				"uspid3a-software/uspid3b-software",
+				"sdrexec-mf-component"
+			]
+		}
+	]
+}
